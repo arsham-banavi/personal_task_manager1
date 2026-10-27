@@ -1,0 +1,7 @@
+__pycache__/
+tasks.json
+tempCodeRunnerFile.py
+*.log
+.DS_Store
+.env
+.vscode/
