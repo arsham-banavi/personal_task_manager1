@@ -13,6 +13,23 @@ A simple task manager built with python
 - Python
 - python-dotenv
 
+## Project Structure
+```text
+personal_task_manager/
+├── main.py
+├── README.md
+├── requirements.txt
+├── tasks.json
+├── .env
+├── .env.example
+├── .gitignore
+├── tasks.py
+└── images/
+    ├── Animation.gif
+    └── screenshot.png
+```
+
+
 ## Installation
 Install the required packages:
 
